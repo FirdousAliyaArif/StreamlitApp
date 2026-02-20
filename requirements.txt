@@ -1,7 +1,6 @@
 streamlit 
 pandas 
 numpy
-PIL
+PILLOW
 matplotlib
-pickle
 joblib
